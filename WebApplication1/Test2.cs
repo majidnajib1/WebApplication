@@ -8,5 +8,6 @@ namespace WebApplication1
     public class Test2
     {
         public string messsage { get; set; }
+        public int Id { get; set; }
     }
 }
