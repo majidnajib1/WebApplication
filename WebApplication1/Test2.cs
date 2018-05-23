@@ -13,6 +13,8 @@ namespace WebApplication1
         public string messsage { get; set; }
 
         public string Subject { get; set; }
+
+        public string Type { get; set; }
     }
    
      
