@@ -14,4 +14,5 @@ namespace WebApplication1
 
         public string Type { get; set; }
     }
+
 }
