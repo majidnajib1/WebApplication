@@ -7,5 +7,11 @@ namespace WebApplication1
 {
     public class TestBranchClass
     {
+
+        public int Id { get; set; }
+
+        public string Name { get; set; }
+
+        public string Type { get; set; }
     }
 }
